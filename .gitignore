@@ -1,0 +1,6 @@
+/.venv
+/papers
+/.vscode
+*.pdf
+*.doc
+*.docx
