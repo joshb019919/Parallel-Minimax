@@ -49,3 +49,5 @@ as JSON to represent each node's ID (serialized from 0 to `len(nodes)`), type (o
 # WARNING!!!!
 
 This current factoring is preliminary, proof-of-concept.  It is _super_ slow!  At least for me on my personal machine, it's been using 100% CPU for over an hour and is still going.
+
+Also, it has used approximately 8GB of memory, so your mileage may vary.
